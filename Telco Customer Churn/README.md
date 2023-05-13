@@ -28,6 +28,7 @@ To address the variance between features, PCA was used, and it was found that th
 ![Image description](images/pca.png)
 
 The data was oversampled using ADASYN, and a randomized search was used to select the best parameters. The final model achieved a test accuracy of 85%.
+
 ![Image description](images/scores.png)
 
 Conclusion
